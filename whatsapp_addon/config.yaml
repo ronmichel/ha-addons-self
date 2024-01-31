@@ -1,8 +1,8 @@
-name: Whatsapp
+name: Whatsapp_self
 version: "1.3.5"
-slug: whatsapp_addon
+slug: whatsapp_addon_self
 description: Whatsapp addon for send message from Home Assistant
-url: "https://github.com/giuseppecastaldo/ha-addons/tree/main/whatsapp_addon"
+url: "https://github.com/ronmichel/ha-addons-self/tree/main/whatsapp_addon_self"
 homeassistant_api: true
 hassio_api: true
 arch:
