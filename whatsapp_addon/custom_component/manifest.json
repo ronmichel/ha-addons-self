@@ -1,6 +1,6 @@
 {
-  "domain": "whatsapp",
-  "name": "Whatsapp",
+  "domain": "whatsapp_self",
+  "name": "Whatsapp_self",
   "dependencies": [],
   "codeowners": [],
   "requirements": [
