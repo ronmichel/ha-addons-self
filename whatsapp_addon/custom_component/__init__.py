@@ -2,12 +2,12 @@ from __future__ import annotations
 
 import logging
 
-from .whatsapp import Whatsapp
+from .whatsapp_self import Whatsapp
 
 from homeassistant.core import HomeAssistant, ServiceCall, callback
 from homeassistant.helpers.typing import ConfigType
 
-DOMAIN = "whatsapp"
+DOMAIN = "whatsapp_self"
 _LOGGER = logging.getLogger(__name__)
 
 async def async_setup(hass: HomeAssistant, config: ConfigType) -> bool:
